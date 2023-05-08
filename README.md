@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm currently working on AFM data analytics, and learning more about what is possible and what is already out there on GitHub.
+
+
 <!--
 **oliviaalley/oliviaalley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
