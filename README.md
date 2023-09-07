@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working on AFM data analytics, and learning more about what is possible and what is already out there on GitHub.
+I'm currently learning more about what is possible and what is already out there on GitHub.
 
 
 <!--
